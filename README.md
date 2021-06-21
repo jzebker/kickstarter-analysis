@@ -1,3 +1,3 @@
-# module-1-challenge---kickstarter
+# kickstarter-analysis
 kickstarter data analysis
 see write up
