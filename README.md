@@ -7,9 +7,9 @@ Provide Louise with insight and analysis on how different campaigns fared in rel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84994321/122715811-50b7b280-d21e-11eb-8f8d-a4df661b3aca.png)
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84994321/122715888-6d53ea80-d21e-11eb-968f-baf59f94f476.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
