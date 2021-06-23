@@ -22,7 +22,7 @@ Make sure data is filtered by parent category "theater", displayed by month, and
 Create a line chart with appropriate labels.
 
 <p align="center">
-  <img width="368" alt="Screen Shot 2021-06-22 at 5 57 23 PM" src="https://user-images.githubusercontent.com/84994321/123018418-62ff3100-d383-11eb-8c30-d6f5e51e32b2.png">
+  <img width="363" alt="Screen Shot 2021-06-22 at 8 03 29 PM" src="https://user-images.githubusercontent.com/84994321/123028961-2805f900-d395-11eb-9674-050094f8b389.png">
 </p>
 
 ### Analysis of Outcomes Based on Goals
