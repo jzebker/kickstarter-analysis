@@ -7,7 +7,7 @@ Provide Louise with insight and analysis on how different campaigns fared in rel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Visualize campaign outcomes with respect to their launch date in excel using a pivot table and a line chart.  Populate the pivot table with the fields seen in the image below.
+Visualize theater campaign outcomes with respect to their launch date in Excel using a pivot table and a line chart.  Populate the pivot table with the fields seen in the image below.
 
 <p align="center">
   <img width="356" alt="Screen Shot 2021-06-22 at 5 32 28 PM" src="https://user-images.githubusercontent.com/84994321/123016603-dbfc8980-d37f-11eb-9afe-9bb9c5dc86e9.png" />
@@ -20,12 +20,18 @@ Make sure data is filtered by parent category "theater", displayed by month, and
 </p>
 
 Create a line chart with appropriate labels.
+
 <p align="center">
   <img width="368" alt="Screen Shot 2021-06-22 at 5 57 23 PM" src="https://user-images.githubusercontent.com/84994321/123018418-62ff3100-d383-11eb-8c30-d6f5e51e32b2.png">
 </p>
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84994321/122715888-6d53ea80-d21e-11eb-968f-baf59f94f476.png)
+Visualize percentages of campaign outcomes for plays based on goal size (money requested) in Excel using a line chart.  Use the goal ranges in the image below to find the total number and percentage of successful, failed, and canceled outcomes for plays.
+
+<p align="center">
+  <img width="642" alt="Screen Shot 2021-06-22 at 6 05 14 PM" src="https://user-images.githubusercontent.com/84994321/123019096-a60dd400-d384-11eb-9d94-d1df8408ec09.png">
+</p>
+
 ### Challenges and Difficulties Encountered
 
 ## Results
