@@ -36,6 +36,12 @@ Totals for successful, failed, and canceled can be populated using an appropriat
 
    `=COUNTIFS(Kickstarter!$D:$D,">=20000",Kickstarter!$D:$D,"<25000",Kickstarter!$F:$F,"failed",Kickstarter!$R:$R,"plays")`
 
+Create a line chart with appropriate labels from the populated table.
+
+<p align="center">
+  <img width="858" alt="Screen Shot 2021-06-22 at 6 15 36 PM" src="https://user-images.githubusercontent.com/84994321/123019715-de61e200-d385-11eb-9f33-757f8c5c8aa0.png">
+</p>
+
 ### Challenges and Difficulties Encountered
 
 ## Results
