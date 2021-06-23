@@ -47,7 +47,7 @@ Multiple conditions can be added one after the other in a COUNTIF statement.  In
 
 I chose to omit "live" outcomes because I could not find a clear definition for them.  I thought it would mean the campaign has not ended yet however there are deadlines listed in the file that have already passed.
 
-Another difficulty is that the first chart is filtered by parent category "theater" while the second chart is filtered by subcategory "plays" within filter.  Louise is producing a play so it should be up to her which to use.
+Another difficulty is that the first chart is filtered by parent category "theater" while the second chart is filtered by subcategory "plays" within "theater".  Louise is producing a play so it should be up to her which to use.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
