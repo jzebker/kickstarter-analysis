@@ -51,11 +51,15 @@ Another difficulty is that the first chart is filtered by parent category "theat
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
   (1) Per the data, the middle of the year is the most common time of the year for kickstarter theater campaigns.  May has the most total campaigns both successful and failed.
   (2) Per the data, the worst time of year to start a kickstarter campaign for theater is Dec.  It has the worst ratio of successful to failed campaigns.
+  
 - What can you conclude about the Outcomes based on Goals?
+
   (1) There were no canceled plays in the kickstarter data.  It appears the fundraisers for plays don't give up.
   (2) There were far more plays with lower goals than higher goals.
+
 - What are some limitations of this dataset?
   (1) Kickstarter isn't the only crowdfunding platform with data.  We have data about plays from kickstarter only.
   (2) There is not a lot of data specifically tagged "plays" which makes it difficult to find any trends especially in the upper goal ranges.
