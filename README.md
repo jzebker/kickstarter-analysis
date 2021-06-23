@@ -32,6 +32,12 @@ Visualize percentages of campaign outcomes for plays based on goal size (money r
   <img width="642" alt="Screen Shot 2021-06-22 at 6 05 14 PM" src="https://user-images.githubusercontent.com/84994321/123019096-a60dd400-d384-11eb-9d94-d1df8408ec09.png">
 </p>
 
+Totals for successful, failed, and canceled can be populated using an appropriate countif statement.  An example for "failed" "plays" in the range 20000 to 24999 is given.
+
+<p align="center">
+   ~~~~=COUNTIFS(Kickstarter!$D:$D,">=20000",Kickstarter!$D:$D,"<25000",Kickstarter!$F:$F,"failed",Kickstarter!$R:$R,"plays")~~~~
+</p>
+
 ### Challenges and Difficulties Encountered
 
 ## Results
