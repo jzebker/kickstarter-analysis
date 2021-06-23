@@ -7,13 +7,9 @@ Provide Louise with insight and analysis on how different campaigns fared in rel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Create a pivot table in Excel of campaign outcomes vs their launch date. Filter by the parent category "theater" and by year of launch date.
+<img align="left" img width="356" alt="Screen Shot 2021-06-22 at 5 32 28 PM" src="https://user-images.githubusercontent.com/84994321/123016603-dbfc8980-d37f-11eb-9afe-9bb9c5dc86e9.png"> Create a pivot table in Excel of campaign outcomes vs their launch date. Filter by the parent category "theater" and by year of launch date.
 
-<img align="left" img width="356" alt="Screen Shot 2021-06-22 at 5 32 28 PM" src="https://user-images.githubusercontent.com/84994321/123016603-dbfc8980-d37f-11eb-9afe-9bb9c5dc86e9.png">
-
-Make sure data is displayed by month and in descending order from left to right as in the screenshot below.  Omit 'live' outcomes.
-
-<img align="left" img width="347" alt="Screen Shot 2021-06-22 at 5 35 27 PM" src="https://user-images.githubusercontent.com/84994321/123016818-4281a780-d380-11eb-9376-987fc603833d.png">
+<img align="left" img width="347" alt="Screen Shot 2021-06-22 at 5 35 27 PM" src="https://user-images.githubusercontent.com/84994321/123016818-4281a780-d380-11eb-9376-987fc603833d.png"> Make sure data is displayed by month and in descending order from left to right as in the screenshot below.  Omit 'live' outcomes.
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84994321/122715888-6d53ea80-d21e-11eb-968f-baf59f94f476.png)
 ### Challenges and Difficulties Encountered
