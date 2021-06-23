@@ -7,7 +7,9 @@ Provide Louise with insight and analysis on how different campaigns fared in rel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-<img align="center" img width="356" alt="Screen Shot 2021-06-22 at 5 32 28 PM" src="https://user-images.githubusercontent.com/84994321/123016603-dbfc8980-d37f-11eb-9afe-9bb9c5dc86e9.png">
+<p align="center">
+  <img width="356" alt="Screen Shot 2021-06-22 at 5 32 28 PM" src="https://user-images.githubusercontent.com/84994321/123016603-dbfc8980-d37f-11eb-9afe-9bb9c5dc86e9.png" />
+</p>
 Create a pivot table in Excel of campaign outcomes vs their launch date. Filter by the parent category "theater" and by year of launch date.
 
 <img align="center" img width="347" alt="Screen Shot 2021-06-22 at 5 35 27 PM" src="https://user-images.githubusercontent.com/84994321/123016818-4281a780-d380-11eb-9376-987fc603833d.png">
