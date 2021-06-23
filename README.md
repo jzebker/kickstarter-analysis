@@ -43,6 +43,9 @@ Create a line chart with appropriate labels from the populated table.
 </p>
 
 ### Challenges and Difficulties Encountered
+Multiple conditions can be added one after the other in a COUNTIF statement.  Initially I thought writing one expression "20000<=x<25000" would work but it does not.  COUNTIFS(Kickstarter!$D:$D,">=20000",Kickstarter!$D:$D,"<25000"... would be the correct format.
+
+I chose to omit "live" outcomes because I could not find a clear definition for them.  I thought it would mean the campaign has not ended yet however there are deadlines listed in the file that have already passed.
 
 ## Results
 
