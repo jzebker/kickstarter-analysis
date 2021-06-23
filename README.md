@@ -7,16 +7,21 @@ Provide Louise with insight and analysis on how different campaigns fared in rel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-Create a pivot table in Excel of campaign outcomes vs their launch date. Filter by the parent category "theater" and by year of launch date.
+Visualize campaign outcomes with respect to their launch date in excel using a pivot table and a line chart.  Populate the pivot table with the fields seen in the image below.
 
 <p align="center">
   <img width="356" alt="Screen Shot 2021-06-22 at 5 32 28 PM" src="https://user-images.githubusercontent.com/84994321/123016603-dbfc8980-d37f-11eb-9afe-9bb9c5dc86e9.png" />
 </p>
-Make sure data is displayed by month and in descending order from left to right as in the screenshot below.  Omit 'live' outcomes.
+
+Make sure data is filtered by parent category "theater", displayed by month, and in descending order from left to right as in the screenshot below.  Omit 'live' outcomes.
 
 <p align="center">
   <img width="593" alt="Screen Shot 2021-06-22 at 5 47 50 PM" src="https://user-images.githubusercontent.com/84994321/123017725-05b6b000-d382-11eb-97fa-2e3e55a95a87.png" />
+</p>
+
+Create a line chart with appropriate labels.
+<p align="center">
+  <img width="368" alt="Screen Shot 2021-06-22 at 5 57 23 PM" src="https://user-images.githubusercontent.com/84994321/123018418-62ff3100-d383-11eb-8c30-d6f5e51e32b2.png">
 </p>
 
 ### Analysis of Outcomes Based on Goals
